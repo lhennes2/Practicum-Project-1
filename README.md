@@ -4,15 +4,15 @@ The goal of this project is to enhance the way we present information online.  P
 
 Specifically I'll be testing widgets and PageDips for accurate recording of data, and investigating any idiosycracies that the widgets may have, as well as how they are used by users and viewers.  I'll also be developing an index of document engagement for users, so that they can predict how strongly their PageDip will engage viewers before they publish.  
 
-# Built With
+## Built With
 
 - Python
 
-# Getting Started
+## Getting Started
 
 Download attached data.
 
-Roadmap
+## Roadmap
 
 - Perform EDA on the data to understand structure, important columns, interactions.
 - Testing PageDips for proper data recording.
@@ -20,7 +20,7 @@ Roadmap
 - Use cluster analysis to identify distinct performance tiers.
 - Forumulate an engagement index of engagement indices, as appropriate.
 
-# Contact
+## Contact
 
 lucashennessey5@gmail.com
 
